@@ -1,2 +1,8 @@
-# Ignore input files
-**/input
+# Input files
+**/*.input
+
+# Java files
+**/*.class
+
+# Vscode files
+settings.json
