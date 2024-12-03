@@ -3,6 +3,10 @@
 
 # Java files
 **/*.class
+bin/*
+include/*
+lib/*
 
 # Vscode files
 settings.json
+pyvenv.cfg
