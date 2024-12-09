@@ -1,5 +1,5 @@
 import time
-INPUT = "5.input"
+INPUT_FILE = './inputs/5.input'
 
 
 def part1():
